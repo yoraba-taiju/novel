@@ -1,4 +1,7 @@
-My Awesome Book
+ヨラバ・タイジュ
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+魔法があたりまえに存在する、もう一つの地球。
+
+
+森が覆い尽くすその星のどこかにある、わたしたちの里。
