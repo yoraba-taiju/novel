@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [ステージ3](Stage02.md)
+* [Stg. 02](Stage02.md)
 
