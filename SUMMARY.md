@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Stg. 02](Stage02.md)
-* Stg. 01
+* [Stg. 01](Stage01.md)
 
