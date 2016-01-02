@@ -14,3 +14,8 @@
 ## 人物設定
 
  * [メモ](memo.md)
+
+## リポジトリ
+
+ - GitHub: https://github.com/YorabaTaiju/Novel
+ - GitBook: https://ledyba.gitbooks.io/yorabataiju/content/
