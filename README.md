@@ -11,9 +11,10 @@
 * [Stage. 02](Stage02.md)
 * [Stage. 03](Stage03.md)
 
-## 人物設定
+## 管理
 
- * [メモ](memo.md)
+ * アイデア出しと吟味に[Issue](https://github.com/YorabaTaiju/Novel/issues)を利用しています。
+ * ある程度まとまったら[Wiki](https://github.com/YorabaTaiju/Novel/wiki)へ
 
 ## リポジトリ
 
