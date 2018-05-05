@@ -33,8 +33,3 @@
 
  * アイデア出しと吟味に[Issue](https://github.com/YorabaTaiju/Novel/issues)を利用しています。
  * ある程度まとまったら[Wiki](https://github.com/YorabaTaiju/Novel/wiki)へ
-
-## リポジトリ
-
- - GitHub: https://github.com/YorabaTaiju/Novel
- - GitBook: https://ledyba.gitbooks.io/yorabataiju/content/
