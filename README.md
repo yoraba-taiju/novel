@@ -23,13 +23,16 @@
 * [Stage. 02](Stage02.md)
 * [Stage. 03](Stage03.md)
 
-## Twitter
+## SNS
 
-一部のキャラクターはTwitterをしています：
+登場人物の４人はSNSをしています：
 
- - [もみじ](https://twitter.com/kaede_no_ane)
+- [そら](https://sabbat.hexe.net/sora)
+- [ちとせ](https://sabbat.hexe.net/chitose)
+- [もみじ](https://sabbat.hexe.net/momiji)
+- [かえで](https://sabbat.hexe.net/kaede)
 
 ## 管理
 
- * アイデア出しと吟味に[Issue](https://github.com/YorabaTaiju/Novel/issues)を利用しています。
- * ある程度まとまったら[Wiki](https://github.com/YorabaTaiju/Novel/wiki)へ
+* アイデア出しと吟味に[Issue](https://github.com/YorabaTaiju/Novel/issues)を利用しています。
+* ある程度まとまったら[Wiki](https://github.com/YorabaTaiju/Novel/wiki)へ
