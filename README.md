@@ -23,6 +23,10 @@
 * [Stage. 02](Stage02.md)
 * [Stage. 03](Stage03.md)
 
+## ゲーム版
+
+元となる[ゲーム版](https://github.com/yoraba-taiju/wakaba)もあります。こちらも絶賛開発中です。
+
 ## SNS
 
 登場人物の４人はSNSをしています：
