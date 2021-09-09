@@ -19,9 +19,10 @@
 人類を絶滅させる1000の方法、その584とその585。
 
 ## 目次
-* [Stage. 01](Stage01.md)
-* [Stage. 02](Stage02.md)
-* [Stage. 03](Stage03.md)
+
+* [Stage. 01](stage01.md)
+* [Stage. 02](stage02.md)
+* [Stage. 03](stage03.md)
 
 ## ゲーム版
 
@@ -31,12 +32,13 @@
 
 登場人物の４人はSNSをしています：
 
-- [そら](https://sabbat.hexe.net/sora)
-- [ちとせ](https://sabbat.hexe.net/chitose)
-- [もみじ](https://sabbat.hexe.net/momiji)
-- [かえで](https://sabbat.hexe.net/kaede)
+* [そら](https://sabbat.hexe.net/sora)
+* [ちとせ](https://sabbat.hexe.net/chitose)
+* [もみじ](https://sabbat.hexe.net/momiji)
+* [かえで](https://sabbat.hexe.net/kaede)
 
 ## 管理
 
 * アイデア出しと吟味に[Issue](https://github.com/YorabaTaiju/Novel/issues)を利用しています。
 * ある程度まとまったら[Wiki](https://github.com/YorabaTaiju/Novel/wiki)へ
+
