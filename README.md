@@ -20,9 +20,9 @@
 
 ## 目次
 
-* [Stage. 01](stage01.md)
-* [Stage. 02](stage02.md)
-* [Stage. 03](stage03.md)
+* [Stage. 01](Stage01.md)
+* [Stage. 02](Stage02.md)
+* [Stage. 03](Stage03.md)
 
 ## ゲーム版
 
