@@ -39,5 +39,5 @@
 
 ## 管理
 
-* アイデア出しと吟味に[Issue](https://github.com/YorabaTaiju/Novel/issues)を利用しています。
-* ある程度まとまったら[Wiki](https://github.com/YorabaTaiju/Novel/wiki)へ
+- アイデア出しと吟味に[Issue](https://github.com/YorabaTaiju/Novel/issues)を利用しています。
+- ある程度まとまったら[Wiki](https://github.com/YorabaTaiju/Novel/wiki)へ
