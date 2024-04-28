@@ -26,7 +26,7 @@
 
 ## ゲーム版
 
-元となる[ゲーム版](https://github.com/yoraba-taiju/taiju.unity)もあります。こちらも絶賛開発中です。
+元となる[ゲーム版](https://code.ledyba.org/yoraba-taiju/taiju.gd)もあります。こちらも絶賛開発中です。
 
 ## SNS
 
